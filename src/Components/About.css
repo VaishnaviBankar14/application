@@ -1,0 +1,53 @@
+.image2{
+    margin-top: 20px;
+}
+
+.responsive-img2 {
+    width: 600px; 
+    height:700px; 
+    box-sizing: border-box;
+    box-shadow:2px 2px 2px 2px black;
+    border: 2px solid black;
+}
+
+.main-about{
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+
+}
+.text1{
+    width: 100%;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 20px;
+    font-weight:bold;
+    line-height: 40px;
+text-align: left;
+}
+.text2{
+    text-align: center;
+    margin-left: 10%;
+    color: black;
+    font-weight: 200px;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+ 
+
+.text3{
+    margin-left: 10%;
+    font-size:20px;
+    margin-top: 20px;
+    line-height: 15px;
+}
+
+.text4{
+    margin-left:0%;
+    font-size:20px;
+    margin-top: 20px;
+    line-height: 15px;   
+}

@@ -1,0 +1,36 @@
+nav{
+    box-sizing: border-box;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(36, 91, 145);
+    color: rgb(255, 255, 255);
+
+}
+
+nav ul{
+    font-size: large;
+    display: flex;
+    gap:45px;
+    margin-left: 50%;
+    margin-top: 20px;
+    margin-right:10px;
+    list-style-type: none;
+}
+nav img{
+    margin-left:5px;
+    height: 90px;
+ border-radius: 50%;
+ border: 2px solid black;
+ border-color: aliceblue;
+    width: 85px;
+}
+nav ul li:hover{
+    color: black;
+}
+.img-name{
+    color: azure;
+    margin-right: 15%;
+    margin-top: 4px;
+    font-weight: bolder;
+}
