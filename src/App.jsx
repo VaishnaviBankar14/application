@@ -5,6 +5,7 @@ import Explore from "./Components/Explore"
 import Footer from "./Components/footer"
 import Home from "./Components/home"
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Recipes from "./Components/Recipes"
 function App(){
   return(
   <>
@@ -15,6 +16,7 @@ function App(){
         <Route path="/About" element={<About/>} />
         <Route path="/Explore" element={<Explore/>} />
         <Route path="/Contact" element={<Contact/>} />
+        <Route path="/Recipes" element={<Recipes/>} />
       </Routes>
     </BrowserRouter>
     <Footer/>

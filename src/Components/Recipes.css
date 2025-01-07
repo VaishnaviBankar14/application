@@ -1,0 +1,39 @@
+.main-recipe{
+    display: flex;
+}
+.top-main{
+    padding: 20px;
+}
+.main1{
+    align-items: center;
+    text-align: center;
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+    
+.main2 {
+    align-items: center;
+   text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.main3{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.text-recipe{
+    margin-left: 15px;
+}
+
+.img-recipe{
+    width: 90px;
+    height: 90px;
+}

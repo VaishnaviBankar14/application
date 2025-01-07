@@ -7,8 +7,8 @@ const Footer = () => {
     <>
     <div className='main-foot'>
     <div>
-    <h1>Pinch of Yum <br/>
-    © 2024 Pinch of Yum. All Rights Reserved.A Raptive Partner Site</h1>
+    <p>Pinch of Yum <br/>
+    © 2024 Pinch of Yum. All Rights Reserved.A Raptive Partner Site</p>
     </div>
     <div> 
 <img src='src\image\icons8-instagram-logo-94.png' className='foot'/>

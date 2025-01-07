@@ -12,10 +12,11 @@ function Comp1()
                 <p className='img-name'> Pinch <br/>of<br/> Yum </p>
                
             <ul>
-        <li className='navbar-text'><Link to="/">Home</Link></li>
+        <li className='navbar-text home-text' ><Link to="/">Home</Link></li>
         <li className='navbar-text'> <Link to="/About">About</Link></li>
         <li className='navbar-text'><Link to="/Contact">Contact</Link> </li>
         <li className='navbar-text'><Link to="/Explore">Explore</Link> </li>
+        <li className='navbar-text'><Link to="/Recipes">Recipes</Link> </li>
         </ul>
         </nav>
         </div>

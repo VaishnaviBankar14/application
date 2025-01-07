@@ -1,6 +1,6 @@
-h1{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: medium;
+p{
+    font-family:'Times new roman';
+font-size:20px;
     background-color:rgb(36, 91, 145);
     color: rgb(255, 255, 255);
 }
@@ -8,9 +8,10 @@ h1{
     background-color:rgb(36, 91, 145); 
     text-align: center;
     padding: 20px;
+    
 }
 .foot{
-    
+
     height: 40px;
 
 }
